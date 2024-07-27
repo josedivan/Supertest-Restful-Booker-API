@@ -1,4 +1,4 @@
-name: Run Tests PR - PUSH
+name: Run Tests pipeline - PUSH
 
 on:
 
